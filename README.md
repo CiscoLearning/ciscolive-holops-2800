@@ -3,7 +3,7 @@
 ## Steps Prior to Starting the Lab
 
 1. Install the remote extension pack for Visual Studio Code (<https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack>)
-2. Connect to the remote developer@10.10.20.50
+2. Connect to the remote developer@198.18.1.11
 3. Open a Terminal in VSCode (which should be on the Devbox)
 4. Clone this repo:
 
